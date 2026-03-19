@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Classid.aternos.me",
-    "port": ,
+    "port": 48876,
     "version": "1.21.11",
     "try-creative": false
   },
